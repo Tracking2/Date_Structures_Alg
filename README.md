@@ -14,5 +14,8 @@ Alg01: 树型结构
 	AVL树 (AVLTree.h)
 	伸展树 (SplayTree.h)
 	红黑树
-	哈夫曼树
+	哈夫曼树 (HuffmanTree.h)
 
+Alg02: 堆
+	最小堆和最大堆（MinHeap.h MaxHeap.h）
+	
